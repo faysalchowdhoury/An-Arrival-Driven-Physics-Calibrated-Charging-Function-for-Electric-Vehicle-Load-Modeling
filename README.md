@@ -1,4 +1,4 @@
-# An Arrival-Driven, Physics-Calibrated Charging Function for Electric Vehicle Load Modeling
+# An Arrival-Driven, Physics-Calibrated Charging Function for Electric Vehicle Load Modeling: Validation Using 143 Days of Real Charging-Network Data
 
 **Validation Using 143 Days of Real Charging-Network Data**
 
