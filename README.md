@@ -2,7 +2,7 @@
 
 **Validation Using 143 Days of Real Charging-Network Data**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Paper](https://img.shields.io/badge/paper-Applied%20Energy-green.svg)](#citation)
 
